@@ -3,5 +3,5 @@
 ## Workflow
 - input
 - preprocessing
-- processing
+- analysis
 - output
